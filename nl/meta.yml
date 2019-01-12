@@ -1,0 +1,26 @@
+---
+title: Zenuwen
+hero_image: images/frustration.png
+theme: turquoise
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+description: Ga met een ring over de draad zonder aan te raken.
+original_url: https://codeclubprojects.org/en-GB/microbit/frustration
+interests: games
+technologies: microbit
+site_areas: projects
+hardware: microbit
+software: ''
+version: 1
+last_tested: 2019-01-01
+steps: 
+- title: Inleiding
+- title: Aanrakingen opslaan
+- title: 'Uitdaging : Toon een afbeelding'
+- title: Het aantal aanrakingen tellen
+- title: Bouw je spel
+- title: 'Uitdaging: Valsspelen'
+- title: 'Uitdaging: Maak je eigen versie'
