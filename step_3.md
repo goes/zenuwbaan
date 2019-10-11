@@ -1,4 +1,4 @@
-## Aanrakingen bijhouden
+## Meerdere aanrakingen bijhouden
 
 In deze stap zullen we het aantal aanrakingen die gebeuren bijhouden.
 
