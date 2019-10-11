@@ -1,38 +1,49 @@
-## Building your game
+## Bouw je eigen spel
 
-Now that you've coded your game, let's put it all together!
+Nu we het spel geprogrammeerd hebben wordt het tijd om het echt te bouwen.
 
 
-
-+ First, let's make your wand. Take a piece of wire about 20cm long and bend it in half, making a loop at the top.
++ Eerst maken we de ring: neem een stuk koperdraad van ongeveer 20 cm en plooi het in het midden om zo een lus te maken.
 
 ![screenshot](images/frustration-wand-bend.png)
 
-+ You can then twist the two pieces of wire together.
-
++ Nu kan je de twee uiteinden strengelen.
 ![screenshot](images/frustration-wand-twist.png)
 
-+ To make the course, take another piece of wire about 30cm long and bend the middle part of the wire into shape. You should bend up one end of the course.
++ Om de zenuwbaan zelf te maken: neem een ander stuk koperdraad van ongeveer 30 cm lang en buig het in een leuke vorm. 
 
 ![screenshot](images/frustration-course-bend.png)
 
-+ If you have some electrical tape, wrap some around the two ends of the wire, leaving some exposed metal at both ends.
++ Isoleer de uiteinden van de draad met elektrische tape.
 
 ![screenshot](images/frustration-course-tape.png)
 
-+ Slide your wand through your course, and push the ends of your wire into some putty to stand it up.
++ Schuif nu de ring over de zenuwbaan en installeer die in de klei of het houtblok.
 
 ![screenshot](images/frustration-course-putty.png)
 
-+ You can now connect your game to your micro:bit using a crocodile clip lead or some wire. Firstly, connect the ground pin (GND) to one end of your course.
++ Je kan nu je zenuwbaan met de krokodilklemmen of een ander stukje koperdraad verbinden met je micro:bit.  
+Verbind eerst de `ground` pin (GND) met een uiteinde van de baan.
 
 ![screenshot](images/frustration-gnd-connect.png)
 
-+ You can then connect Pin 0 to your wand.
++ Verbind nu pin 0 met het uiteinde van de stok met de ring. 
 
 ![screenshot](images/frustration-pin0-connect.png)
 
-+ Test your game. Press button A and your score should be set to 0. Each time your wand touches the course, the circuit is completed and your micro:bit should add 1 to your number of fails.
++ Test je spel. Druk knop A in en je score moet op 0 komen te staan. Elke keer je de zenuwbaan raakt zou je micro:bit het aantal aanrakingen moeten verhogen.
 
 ![screenshot](images/frustration-final.png)
 
+
+
+## Uitdaging 1: Valsspelen
+Kan je er voor zorgen dat als je knop B indrukt het aantal aanrakingen vermindert met 1?
+
+
+## Uitdaging 2: Maak je eigen spel
+Vraag een paar vrienden om je spel uit te proberen. Als het te gemakkelijk is kan je alles wat moeilijker proberen maken:
+
+  + Maak een langer parcours
+  + Voeg meer bochten toe in je parcours
+  + Maak de ring aan het handvat kleiner

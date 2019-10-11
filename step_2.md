@@ -26,4 +26,14 @@ Om dat te doen sleep je eerst `toon nummer` blok uit 'Basic' naar het einde van 
 	
 + Test nu je programma met de simulator. Als je op knop A klikt zou je het aantal aanrakingen moeten te zien krijgen, een aantal dat werd ingesteld op `0`.  ![screenshot](images/frustration-fails-test.png)
 
-[>> Volgende: Een uitdaging](step_3.md)
+
+## Uitdaging: Toon een afbeelding	
+Kan je 1 seconde lang (1000ms) een afbeelding laten zien net voor het aantal `aanrakingen` wordt getoond?  
+![screenshot](images/frustration-start-img.png)
+
+Deze blokken uit 'Basic' zal je nodig hebben:
++ ![screenshot](images/frustration-blocks.png)
++ ![screenshot](images/frustration-blocks2.png)
+
+
+[>> Volgende: Aanrakingen bijhouden](step_3.md)
