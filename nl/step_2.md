@@ -2,7 +2,7 @@
 
 We beginnen met het maken van een vakje waarin we het aantal aanrakingen kunnen bewaren.
 
-+ Ga naar <a href="http://jumpto.cc/pxt-new" target="_blank">jumpto.cc/pxt-new</a> en begin een nieuw project in de MakeCode (PXT) omgeving. Noem je project 'Zenuwspibaan'.
++ Ga naar <a href="http://jumpto.cc/pxt-new" target="_blank">jumpto.cc/pxt-new</a> en begin een nieuw project in de MakeCode (PXT) omgeving. Noem je project 'Zenuwbaan'.
 
 + Verwijder de blokken `de hele tijd` en `bij opstarten` door ze naar het palet te slepen en in de prullenmand te gooien:  
 ![screenshot](images/frustration-bin.png)
@@ -26,3 +26,14 @@ Om dat te doen sleep je eerst `toon nummer` blok uit 'Basic' naar het einde van 
 	
 + Test nu je programma met de simulator. Als je op knop A klikt zou je het aantal aanrakingen moeten te zien krijgen, een aantal dat werd ingesteld op `0`.  ![screenshot](images/frustration-fails-test.png)
 
+
+## Uitdaging: Toon een afbeelding	
+Kan je 1 seconde lang (1000ms) een afbeelding laten zien net voor het aantal `aanrakingen` wordt getoond?  
+![screenshot](images/frustration-start-img.png)
+
+Deze blokken uit 'Basic' zal je nodig hebben:
++ ![screenshot](images/frustration-blocks.png)
++ ![screenshot](images/frustration-blocks2.png)
+
+
+[>> Volgende: Aanrakingen bijhouden](step_3.md)
