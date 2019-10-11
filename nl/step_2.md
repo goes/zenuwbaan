@@ -2,12 +2,12 @@
 
 We beginnen met het maken van een vakje waarin we het aantal aanrakingen kunnen bewaren.
 
-+ Ga naar <a href="http://jumpto.cc/pxt-new" target="_blank">jumpto.cc/pxt-new</a> en begin een nieuw project in de MakeCode (PXT) omgeving. Noem je project 'Zenuwspiraal'.
++ Ga naar <a href="http://jumpto.cc/pxt-new" target="_blank">jumpto.cc/pxt-new</a> en begin een nieuw project in de MakeCode (PXT) omgeving. Noem je project 'Zenuwspibaan'.
 
 + Verwijder de blokken `de hele tijd` en `bij opstarten` door ze naar het palet te slepen en in de prullenmand te gooien:  
 ![screenshot](images/frustration-bin.png)
 
-+ Een nieuw spel start als de speler knop A indrukt. Kies 'Invoer' and then `wanneer knop A wordt ingedrukt`.  
++ Een nieuw spel start als de speler knop A indrukt. Kies 'Invoer' and dan `wanneer knop A wordt ingedrukt`.  
 ![screenshot](images/frustration-onPressA.png)
 
 + Nu heb je een variabele nodig om bij te houden hoeveel keer je tijdens het spel met de ring tegen de draad komt. Klik op 'Variabelen' en kies 'Maak een variabele...'. Noem de variabele `aanrakingen`.  

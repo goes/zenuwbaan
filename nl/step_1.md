@@ -2,26 +2,20 @@
 
 Je gaat een spel maken waarin de spelers een ring over een draad moeten bewegen zonder die aan te raken. Elke aanraking zal de score van de speler met één punt verhogen, de speler met de laagste score wint!
 
-__Uitleg__ : Als je dit online leest, druk  __A__  op de micro:bit hieronder om het spel te starten, en klik daarna op __PIN 0__ om een de draad aan te raken.
-
-<div class="trinket" style="width:400px;margin: 0 auto;">
-<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=71088-38400-20107-39742" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-scripts allow-same-origin" frameborder="0"></iframe></div>
-</div>
-
 Voor dit project heb je het volgende nodig:
 
-+ Stuk ijzerdraad  (ongeveer 50cm)
-+ Boetseerklei
++ Stuk koperdraad  (ongeveer 50cm)
++ Boetseerklei / houten blok / ... om je koperdraad in te steken
 + Isolerende plakband (optioneel)
 + Krokodilklemmen (optioneel)
 
 ![screenshot](images/frustration-items.png)
 
 
---- collapse ---
----
-title: Uitleg voor de begeleider
----
+<details>
+  <summary>
+    Uitleg voor de begeleider
+  </summary>
 
 
 ## Inleiding
@@ -66,4 +60,4 @@ Verminder het aantal `aanrakingen` door op knop B te drukken.
 + __Maak je eigen spel__  
 Maak het spel moeilijker door de ring en het parcours te veranderen.
 
---- /collapse ---
+</details>
